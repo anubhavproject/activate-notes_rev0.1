@@ -1,0 +1,1 @@
+class TaskExtractor:\n    def extract(self, text):\n        return ['finish report', 'call team']
