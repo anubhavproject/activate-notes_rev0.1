@@ -1,0 +1,1 @@
+from transformers import pipeline\ndef load_summarizer():\n    return pipeline('summarization')
