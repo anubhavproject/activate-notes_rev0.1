@@ -1,1 +1,1 @@
-# AI Note Activation\nNLP tool for task extraction.
+# activate-notes AI\n\nAI-powered note activation system using transformer models for task extraction and summarization.
